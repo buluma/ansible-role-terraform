@@ -4,7 +4,7 @@ Install and configure terraform on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-terraform/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-terraform/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-terraform/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-terraform)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/terraform)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/terraform)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-terraform.svg)](https://github.com/buluma/ansible-role-terraform/releases/)|
+|[![github](https://github.com/buluma/ansible-role-terraform/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-terraform/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-terraform/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-terraform)|[![quality](https://img.shields.io/ansible/quality/57959)](https://galaxy.ansible.com/buluma/terraform)|[![downloads](https://img.shields.io/ansible/role/d/57959)](https://galaxy.ansible.com/buluma/terraform)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-terraform.svg)](https://github.com/buluma/ansible-role-terraform/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
