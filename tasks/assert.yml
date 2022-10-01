@@ -11,5 +11,4 @@
   ansible.builtin.assert:
     that:
       - terraform_destination is defined
-      - terraform_destination is defined
     quiet: yes
