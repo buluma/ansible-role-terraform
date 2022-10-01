@@ -1,8 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-terraform/tree/HEAD)
+## [1.0.9](https://github.com/buluma/ansible-role-terraform/tree/1.0.9) (2022-05-13)
 
-[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.7...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.8...1.0.9)
+
+## [1.0.8](https://github.com/buluma/ansible-role-terraform/tree/1.0.8) (2022-05-13)
+
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.7...1.0.8)
 
 **Closed issues:**
 
