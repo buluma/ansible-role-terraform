@@ -4,7 +4,6 @@
 #
 exclude_paths:
   - ./meta/version.yml
-  - ./meta/exception.yml
   - ./meta/preferences.yml
   - ./molecule/default/prepare.yml
   - ./molecule/default/converge.yml
@@ -12,3 +11,5 @@ exclude_paths:
   - ./molecule/default/collections.yml
   - ./.tox
   - ./.cache
+  - ./.github
+  - ./requirements.yml
