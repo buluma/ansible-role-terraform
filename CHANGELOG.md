@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-terraform/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/2.0.0...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#11](https://github.com/buluma/ansible-role-terraform/issues/11)
+- Update action [\#10](https://github.com/buluma/ansible-role-terraform/issues/10)
+
 ## [2.0.0](https://github.com/buluma/ansible-role-terraform/tree/2.0.0) (2022-11-11)
 
 [Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.10...2.0.0)
