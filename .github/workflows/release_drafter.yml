@@ -8,10 +8,6 @@ name: Release Drafter
 on:
   push:
     # branches to consider in the event; optional, defaults to default
-    branches:
-      - master
-      - main
-      - testing
     paths-ignore:
       - '**/README.md'
       - '**/CHANGELOG.md'
