@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - Bump actions/checkout from 3 to 4 [\#16](https://github.com/buluma/ansible-role-terraform/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#15](https://github.com/buluma/ansible-role-terraform/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [2.1.0](https://github.com/buluma/ansible-role-terraform/tree/2.1.0) (2024-01-02)
 
