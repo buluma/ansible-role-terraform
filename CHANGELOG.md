@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-terraform/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/2.0.1...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/2.1.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#16](https://github.com/buluma/ansible-role-terraform/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [2.1.0](https://github.com/buluma/ansible-role-terraform/tree/2.1.0) (2024-01-02)
+
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/2.0.1...2.1.0)
 
 **Closed issues:**
 
