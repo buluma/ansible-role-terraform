@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-terraform/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/24.3.31...HEAD)
+
+**Merged pull requests:**
+
+- Bump requests from 2.28.1 to 2.32.2 in the pip group across 1 directory [\#27](https://github.com/buluma/ansible-role-terraform/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-terraform/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/2.2.0...24.3.31)
