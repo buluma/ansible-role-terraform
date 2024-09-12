@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump docker/login-action from 3.2.0 to 3.3.0 [\#28](https://github.com/buluma/ansible-role-terraform/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump requests from 2.28.1 to 2.32.2 in the pip group across 1 directory [\#27](https://github.com/buluma/ansible-role-terraform/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [24.3.31](https://github.com/buluma/ansible-role-terraform/tree/24.3.31) (2024-03-29)
