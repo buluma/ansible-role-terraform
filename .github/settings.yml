@@ -5,4 +5,4 @@
 repository:
   description: Install and configure terraform on your system.
   homepage: https://buluma.github.io/
-  topics: terraform, ansible, molecule, tox, playbook
+  topics: terraform, ansible, molecule, playbook
