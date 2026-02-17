@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#13](https://github.com/buluma/ansible-role-terraform/issues/13)
+- rebuild action [\#12](https://github.com/buluma/ansible-role-terraform/issues/12)
+
 **Merged pull requests:**
 
 - Bump docker/login-action from 3.2.0 to 3.3.0 [\#28](https://github.com/buluma/ansible-role-terraform/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -21,7 +26,6 @@
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#22](https://github.com/buluma/ansible-role-terraform/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#21](https://github.com/buluma/ansible-role-terraform/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#20](https://github.com/buluma/ansible-role-terraform/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#19](https://github.com/buluma/ansible-role-terraform/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [2.2.0](https://github.com/buluma/ansible-role-terraform/tree/2.2.0) (2024-01-20)
 
@@ -29,6 +33,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#19](https://github.com/buluma/ansible-role-terraform/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Update release\_drafter.yml [\#17](https://github.com/buluma/ansible-role-terraform/pull/17) ([buluma](https://github.com/buluma))
 - Bump actions/checkout from 3 to 4 [\#16](https://github.com/buluma/ansible-role-terraform/pull/16) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#15](https://github.com/buluma/ansible-role-terraform/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
