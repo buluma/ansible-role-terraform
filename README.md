@@ -11,29 +11,25 @@ Install and configure terraform on your system.
 This example is taken from [`molecule/default/converge.yml`](https://github.com/buluma/ansible-role-terraform/blob/master/molecule/default/converge.yml) and is tested on each push, pull request and release.
 
 ```yaml
----
-- name: Converge
-  hosts: all
-  become: true
+- become: true
   gather_facts: true
-
+  hosts: all
+  name: Converge
   roles:
-    - role: buluma.terraform
+  - role: buluma.terraform
 ```
 
 The machine needs to be prepared. In CI this is done using [`molecule/default/prepare.yml`](https://github.com/buluma/ansible-role-terraform/blob/master/molecule/default/prepare.yml):
 
 ```yaml
----
-- name: Prepare
-  hosts: all
-  become: true
+- become: true
   gather_facts: false
-
+  hosts: all
+  name: Prepare
   roles:
-    - role: buluma.bootstrap
-    - role: buluma.core_dependencies
-    - role: buluma.ca_certificates
+  - role: buluma.bootstrap
+  - role: buluma.core_dependencies
+  - role: buluma.ca_certificates
 ```
 
 Also see a [full explanation and example](https://buluma.github.io/how-to-use-these-roles.html) on how to use these roles.
@@ -43,14 +39,8 @@ Also see a [full explanation and example](https://buluma.github.io/how-to-use-th
 The default values for the variables are set in [`defaults/main.yml`](https://github.com/buluma/ansible-role-terraform/blob/master/defaults/main.yml):
 
 ```yaml
----
-# defaults file for terraform
-
-# The version of Terraform to install.
-terraform_version: "1.3.4"
-
-# Where to place the binary.
 terraform_destination: /usr/local/bin
+terraform_version: 1.3.4
 ```
 
 ## [Requirements](#requirements)

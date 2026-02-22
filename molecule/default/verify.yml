@@ -1,10 +1,8 @@
----
-- name: Verify
-  hosts: all
-  become: true
+- become: true
   gather_facts: false
-
+  hosts: all
+  name: Verify
   tasks:
-    - name: Run terraform --version
-      ansible.builtin.command:
-        cmd: /usr/local/bin/terraform --version
+  - ansible.builtin.command:
+      cmd: /usr/local/bin/terraform --version
+    name: Run terraform --version
