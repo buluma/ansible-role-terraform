@@ -1,16 +1,13 @@
 ---
-# tasks file for terraform
-
 - name: Import assert.yml
   ansible.builtin.import_tasks: assert.yml
-  run_once: true
   delegate_to: localhost
-
+  run_once: true
 - name: Download and install software
   ansible.builtin.unarchive:
-    src: "{{ terraform_unarchive_src }}"
     dest: "{{ terraform_destination }}"
-    remote_src: true
+    group: root
     mode: "0755"
     owner: root
-    group: root
+    remote_src: true
+    src: "{{ terraform_unarchive_src }}"

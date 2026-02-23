@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#13](https://github.com/buluma/ansible-role-terraform/issues/13)
+- rebuild action [\#12](https://github.com/buluma/ansible-role-terraform/issues/12)
+
 **Merged pull requests:**
 
 - Bump docker/login-action from 3.2.0 to 3.3.0 [\#28](https://github.com/buluma/ansible-role-terraform/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
