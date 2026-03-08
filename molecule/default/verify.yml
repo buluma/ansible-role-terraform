@@ -4,6 +4,6 @@
   hosts: all
   name: Verify
   tasks:
-  - ansible.builtin.command:
-      cmd: /usr/local/bin/terraform --version
-    name: Run terraform --version
+    - ansible.builtin.command:
+        cmd: /usr/local/bin/terraform --version
+      name: Run terraform --version
