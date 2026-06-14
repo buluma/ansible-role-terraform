@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-terraform/tree/HEAD)
+## [26.6.0](https://github.com/buluma/ansible-role-terraform/tree/26.6.0) (2026-06-14)
 
-[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/24.3.31...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/24.3.31...26.6.0)
 
 **Closed issues:**
 
@@ -11,6 +11,9 @@
 
 **Merged pull requests:**
 
+- Bump ansible/ansible-lint from 26.1.1 to 26.2.0 [\#31](https://github.com/buluma/ansible-role-terraform/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 4 to 6 [\#30](https://github.com/buluma/ansible-role-terraform/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#29](https://github.com/buluma/ansible-role-terraform/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump docker/login-action from 3.2.0 to 3.3.0 [\#28](https://github.com/buluma/ansible-role-terraform/pull/28) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump requests from 2.28.1 to 2.32.2 in the pip group across 1 directory [\#27](https://github.com/buluma/ansible-role-terraform/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
 
@@ -61,15 +64,15 @@
 
 ## [1.0.10](https://github.com/buluma/ansible-role-terraform/tree/1.0.10) (2022-10-02)
 
-[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.9...1.0.10)
-
-## [1.0.9](https://github.com/buluma/ansible-role-terraform/tree/1.0.9) (2022-05-13)
-
-[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.8...1.0.9)
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.8...1.0.10)
 
 ## [1.0.8](https://github.com/buluma/ansible-role-terraform/tree/1.0.8) (2022-05-13)
 
-[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.7...1.0.8)
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.9...1.0.8)
+
+## [1.0.9](https://github.com/buluma/ansible-role-terraform/tree/1.0.9) (2022-05-13)
+
+[Full Changelog](https://github.com/buluma/ansible-role-terraform/compare/1.0.7...1.0.9)
 
 **Closed issues:**
 
