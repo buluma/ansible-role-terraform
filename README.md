@@ -73,7 +73,7 @@ The default values for the variables are set in [`defaults/main.yml`](https://gi
 ```yaml
 ---
 terraform_destination: /usr/local/bin
-terraform_version: "1.17.0"
+terraform_version: "1.17.2"
 ```
 
 ## [Requirements](#requirements)
